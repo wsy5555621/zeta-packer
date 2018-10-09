@@ -46,7 +46,7 @@
     "gulp.spritesmith": "^6.2.1",
     "handlebars": "^4.0.5",
     "merge-stream": "^1.0.0",
-    "node-sass": "^3.4.2",
+    "node-sass": "^4.9.0",
     "opn": "^4.0.2",
     "pretty-hrtime": "^1.0.2",
     "request": "^2.74.0",
